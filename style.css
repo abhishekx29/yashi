@@ -323,7 +323,7 @@ h3{
 
 .container .progressbar{
     background: #959595;
-    width:1400px;
+    width:90% !important;
     height: 10px;
     border-radius: 5px;
 
