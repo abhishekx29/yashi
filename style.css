@@ -502,9 +502,7 @@ h3{
     color: white;
 }
 @media(max-width:1600px) {
-    html{
-        font-size: 52%;
-    }
+ 
     #menu-icon{
         display: none;
 
