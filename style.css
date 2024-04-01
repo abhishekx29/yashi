@@ -501,7 +501,7 @@ h3{
     font-size: 2rem;
     color: white;
 }
-@media(max-width:1200px) {
+@media(max-width:1600px) {
     html{
         font-size: 52%;
     }
